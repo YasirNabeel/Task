@@ -15,10 +15,14 @@ Link:[/api/orders/oneway?from=BGW&to=BEY&data=2019-02-24&adt=1&type=e&chd=0&Infa
 Method: GET  
 <br><br>
 params: from =BGW ,to=BEY ,data=2019-05-24,type=e,chd=0 adt=1,Infant=0
-<br>
-example :  
+<br><br>
+example : 
+,,,
 https://favorite-holiday.herokuapp.com/api/orders/oneway?from=BGW&to=BEY&data=2019-05-24&adt=1&type=e&chd=0&Infant=0
+,,,
+<br><br>
 ###Response
+<br><br>
 ,,,
 {
         "id": "737778b0-3d23-11e9-82fe-57461c118f6f",
